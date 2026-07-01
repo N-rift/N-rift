@@ -1,16 +1,32 @@
-## Hi there 👋
+# Name's V, got it memorized?
 
-<!--
-**N-rift/N-rift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3D Printing Technology student who enjoys 3D modeling, making things, and learning new tools along the way.
 
-Here are some ideas to get you started:
+Most of what you'll find here is stuff I'm building, experimenting with, or learning from.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+* 3D Modeling
+* 3D Printing
+* CAD Design
+* Blender
+* Fusion 360
+* Project Prototyping
+
+## Currently Working On
+
+* Improving my 3D modeling skills
+* Creating personal projects
+* Learning better design workflows
+* Filling this GitHub with things that aren't just test files
+
+## A Few Facts
+
+* I learn best by doing.
+* Every project teaches me something new.
+* "One quick change" usually becomes a three-hour adventure.
+* If it works on the first try, I'm probably suspicious.
+
+---
+
+Still learning. Still building.
