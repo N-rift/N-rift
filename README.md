@@ -6,12 +6,13 @@ Most of what you'll find here is stuff I'm building, experimenting with, or lear
 
 ## What I Do
 
-* 3D Modeling
-* 3D Printing
+* 3D Modeling | Printing
 * CAD Design
+* Project Prototyping
+
+## What i use
 * Blender
 * Fusion 360
-* Project Prototyping
 
 ## Currently Working On
 
