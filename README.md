@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm V 😼</h1>
+<h1 align="center">Hey, I'm V </h1>
 
 <p align="center">
   Hardware & electronics technician · Arduino / ESP32 · PCB design · 3D printing<br>
